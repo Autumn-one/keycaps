@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "releasedAt": "2026-10-24T04:07:41.7770905+08:00",
+  "releaseNotes": "KeyCaps 首个测试发行版：签名更新、多镜像下载、启动健康确认、更新中断恢复及键盘核心保护。",
+  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.1.0",
+  "assets": {
+    "framework": {
+      "fileName": "KeyCaps-0.1.0-854ff3368ce5-win-x64.zip",
+      "sha256": "854ff3368ce500e48f122c9f4d106a33be1ff4a7fdd18d107de4819876ab43a8",
+      "description": "Windows x64 便携版（自带 .NET 10 Desktop Runtime）",
+      "sizeBytes": 143787159
+    }
+  },
+  "signingKeyId": "keycaps-release-2026-01",
+  "signature": "2dZqf9roWvBZwoBTL9cnVdBJGymbe93AFE0fN5SnoBcJLp/UW5l0IWPLSGm0XtybbnPfcHONr5+IkFul+Aqagw=="
+}
