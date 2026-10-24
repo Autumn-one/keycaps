@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.4",
-  "tag": "v0.1.4",
-  "releasedAt": "2026-10-24T17:53:22.5112473+08:00",
-  "releaseNotes": "恢复兼容性修复版：恢复程序使用 .NET 文件哈希和原子检查点，修复从 PowerShell 7 环境启动后的中断恢复兼容问题。",
-  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.1.4",
+  "version": "0.1.5",
+  "tag": "v0.1.5",
+  "releasedAt": "2026-10-24T17:57:13.0105047+08:00",
+  "releaseNotes": "更新链路验证版本：签名、多镜像、完整更新运行时、启动健康确认、文件完整性校验和 Windows PowerShell 兼容恢复。",
+  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.1.5",
   "assets": {
     "framework": {
-      "sha256": "0d05bb6b134aed2801c719ecd779d5af015bcd539cfe6c68eb95b3b531aaea29",
-      "fileName": "KeyCaps-0.1.4-0d05bb6b134a-win-x64.zip",
-      "sizeBytes": 143790541,
+      "sizeBytes": 143790577,
+      "sha256": "3b95c504f673f0704c6c939e82f12b48d63181b5a803171716f5817908949f66",
+      "fileName": "KeyCaps-0.1.5-3b95c504f673-win-x64.zip",
       "description": "Windows x64 便携版（自带 .NET 10 Desktop Runtime）"
     }
   },
   "signingKeyId": "keycaps-release-2026-01",
-  "signature": "zhxTNroiFXHv24C+CpN+tiIe0rfQk2xWctMT23IyfHwBPjk9srPYSXYYlShq8rybwbMgjOamCgAjXiCjXiH3Gw=="
+  "signature": "O+CYibFI1i9v2CHD3RjMUaTfzCBCDiDEk/BUFEm7MYB2M+rzrvDbWuzlq4I71V2VWCOWMAlU7v2iNup74QIqiQ=="
 }
