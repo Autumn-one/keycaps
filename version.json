@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "tag": "v0.0.1",
   "releasedAt": "2026-10-25T00:29:18.4438697+08:00",
-  "releaseNotes": "KeyCaps 0.0.1：重新开始的首个正式版本。提供 Caps 快捷键、可视化动作编辑、窗口匹配、应用分流、输入浮窗与配置管理；发行包自带运行库。",
+  "releaseNotes": "常规更新。",
   "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.0.1",
   "assets": {
     "framework": {
@@ -14,5 +14,5 @@
     }
   },
   "signingKeyId": "keycaps-release-2026-01",
-  "signature": "M5ZtKVh7okqBXVknRE8hMcnQEHCeYgi3DFDgMPbRdKnGq3/7BlYh5XOJKRfg6GrxGuyF2h5HiSiprgQeLYziaQ=="
+  "signature": "5hSKIT3VgV8kMnF+F73d96n11LSYzSvi/Xh/iOGbtRCiI5pWv+9SkPf7uUeq/eY8FUJWV3CGfE8xxbwOZk172g=="
 }

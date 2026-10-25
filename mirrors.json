@@ -148,15 +148,6 @@
       "url": "https://ghfast.top/https://github.com/{owner}/{repo}/releases/latest/download/mirrors.json"
     }
   ],
-  "analyticsSources": [
-    {
-      "id": "keycaps-production",
-      "name": "KeyCaps 使用统计",
-      "priority": 10,
-      "enabled": true,
-      "url": "http://43.130.244.35:3920/api/v1"
-    }
-  ],
   "defaultChannel": "stable",
   "github": {
     "owner": "Autumn-one",
