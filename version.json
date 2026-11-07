@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "version": "0.0.2",
-  "tag": "v0.0.2",
-  "releasedAt": "2026-10-26T03:38:07.3024039+08:00",
+  "version": "0.0.3",
+  "tag": "v0.0.3",
+  "releasedAt": "2026-11-07T14:04:42.28028+08:00",
   "releaseNotes": "常规更新。",
-  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.0.2",
+  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.0.3",
   "assets": {
     "framework": {
-      "sizeBytes": 85366408,
-      "fileName": "KeyCaps-0.0.2-3526cc8fd99f-win-x64.zip",
-      "sha256": "3526cc8fd99fd5640b2dcd093d9777bd64581b6c958d8f874838dbe099d6e392",
-      "description": "Windows x64 便携版（自带 .NET 10 Desktop Runtime）"
+      "fileName": "KeyCaps-0.0.3-6f3ff83d81e3-win-x64.zip",
+      "description": "Windows x64 便携版（自带 .NET 10 Desktop Runtime）",
+      "sizeBytes": 85511041,
+      "sha256": "6f3ff83d81e30470cf0985e17f016c13206c6248e1da20a6d1129fc781d607f6"
     }
   },
   "signingKeyId": "keycaps-release-2026-01",
-  "signature": "2wBly1i5guPEJynvtCnC3KSWGAvDKM+Sp5V82WqwgA1g5kNuor/C4YJ3o4c81oBEYdbM+R8uWg5YWyQC3c4oKw=="
+  "signature": "2BnsY/jVk9jGsacLMxqQR8zQJDLBKLHT242hqX5OlS0qe27y/VxSNgvIBs2sBbaVEbpH6YCSVsIlGprbdUgLkg=="
 }
