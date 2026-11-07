@@ -1,12 +1,12 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageType": "installer",
   "selfContained": false,
-  "fileName": "KeyCaps-0.0.2-win-x64-Setup.exe",
-  "sizeBytes": 7831231,
-  "sha256": "9c1fe2bb56160a3d4cc98cd53bc6b0cc13acf556d48be612a7bda4aa77ee1c11",
-  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.0.2",
-  "githubDownloadUrl": "https://github.com/Autumn-one/keycaps/releases/download/v0.0.2/KeyCaps-0.0.2-win-x64-Setup.exe",
-  "downloadUrl": "https://proxy.gitwarp.top/https://github.com/Autumn-one/keycaps/releases/download/v0.0.2/KeyCaps-0.0.2-win-x64-Setup.exe",
-  "alternativeDownloadUrl": "https://gh-proxy.org/https://github.com/Autumn-one/keycaps/releases/download/v0.0.2/KeyCaps-0.0.2-win-x64-Setup.exe"
+  "fileName": "KeyCaps-0.0.3-win-x64-Setup.exe",
+  "sizeBytes": 7966794,
+  "sha256": "169abadd6dfffcd13f813cfe3e2ccd0e79ca3a240be553ced8ea57cdd4651439",
+  "githubReleaseUrl": "https://github.com/Autumn-one/keycaps/releases/tag/v0.0.3",
+  "githubDownloadUrl": "https://github.com/Autumn-one/keycaps/releases/download/v0.0.3/KeyCaps-0.0.3-win-x64-Setup.exe",
+  "downloadUrl": "https://gh-proxy.org/https://github.com/Autumn-one/keycaps/releases/download/v0.0.3/KeyCaps-0.0.3-win-x64-Setup.exe",
+  "alternativeDownloadUrl": null
 }
